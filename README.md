@@ -42,7 +42,7 @@ now login and you will be redirected to the appropriate dashboard (user or admin
 Apply for a loan (user) or review loan applications and approve/reject them (admin).
 Logout when done.
 Contributors
-Abhishek Pandey
+Aniruddh singh 
 Acknowledgements
 MongoDB
 Express.js
@@ -51,7 +51,7 @@ Node.js
 JSON Web Tokens
 Axios
 Contact
-For any inquiries, please contact abhishekpandey095155@gmail.com.
+For any inquiries, please contact Aniruddhsingh7901@gmail.com.
 
 Feel free to customize it further based on your specific project details and preferences!
 Thank you
