@@ -15,10 +15,7 @@ Express.js: Web application framework used for building the backend server.
 React.js: JavaScript library used for building the user interface.
 Node.js: JavaScript runtime environment used for running the backend server.
 JSON Web Tokens (JWT): Used for authentication and authorization.
-Axios: Promise-based HTTP client for making requests to the backend API.
-
-Installation
-Clone the repository:https://github.com/developerxabhishek/Loan-Application
+Axios: Promise-based HTTP client for making requests to the backend server 
 Navigate to the project directory:cd Loan-Application
 Install dependencies for the frontend and backend:
 cd client && npm install
